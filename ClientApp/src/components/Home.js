@@ -18,6 +18,9 @@ export class Home extends Component {
           <li>a</li>
           <li>b</li>
           <li>c</li>
+          <li>d</li>
+          <li>e</li>
+          <li>fg</li>
         </ul>
         <p>To help you get started, we have also set up:</p>
         <ul>
